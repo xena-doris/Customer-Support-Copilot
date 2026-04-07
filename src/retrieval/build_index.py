@@ -2,7 +2,7 @@ import json
 import numpy as np
 import faiss
 import os
-from embedder import Embedder
+from .embedder import Embedder
 
 
 def load_kb(path):

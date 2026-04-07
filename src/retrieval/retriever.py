@@ -1,7 +1,7 @@
 import faiss
 import numpy as np
 import json
-from embedder import Embedder
+from .embedder import Embedder
 
 
 class Retriever:
