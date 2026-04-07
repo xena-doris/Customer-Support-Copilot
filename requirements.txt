@@ -1,0 +1,9 @@
+sentence-transformers
+faiss-cpu
+tqdm
+numpy
+scikit-learn
+pandas
+torch
+pydantic
+uuid
