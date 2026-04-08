@@ -1,5 +1,5 @@
-from retrieval.retriever import Retriever
-from reranking.reranker import Reranker
+from src.retrieval.retriever import Retriever
+from src.reranking.reranker import Reranker
 
 retriever = Retriever()
 reranker = Reranker()

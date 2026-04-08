@@ -7,3 +7,6 @@ pandas
 torch
 pydantic
 uuid
+openai
+transformers
+accelerate
